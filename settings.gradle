@@ -1,0 +1,3 @@
+rootProject.name = "RegistrationApplication"
+include ':app'
+include ':pclibrary'
